@@ -1,0 +1,22 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "yes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoserrao/chatbot-slack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leoserrao/chatbot-slack/issues"
+  },
+  "homepage": "https://github.com/leoserrao/chatbot-slack#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
